@@ -1,0 +1,47 @@
+body{
+    max-width: 1024px;
+    margin: auto;
+    font-family: Geneva, Arial, Helvetica, sans-serif ;
+    color: rgb(17, 17, 17);
+    font-size: 22px;
+    background-image: url(img/bg-body.jpg);    
+}
+h1,h2,h3{
+    margin: 0;
+}
+.letter{
+    width: 100%;
+    height: auto;
+    padding: 1px 0 1px 0;
+    margin: 50px 0;
+    border-radius: 20px;
+    background-image: url(img/bg-letter.jpg);
+}
+.block{
+    height: auto;
+    margin: 30px 30px;
+    border-radius: 20px;
+}
+.photo_box{
+    display: flex;
+}
+.photo{
+    min-height: 150px;
+    min-width: 300px;
+    background-image: url(img/ElonMaskJr.jpg);
+    background-position: center;
+    background-size: 350px;
+    margin-right: 50px;
+    border-radius: 25px;
+    box-shadow: inset 0 0 40px rgba(0, 0, 0, 0.5);
+}
+.info {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.info_text {
+    display: inline-block;
+    width: 100%;
+    margin-left: 45px;
+    align-self: center;
+}

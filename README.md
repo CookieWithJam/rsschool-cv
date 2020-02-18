@@ -1,1 +1,1 @@
-https://CookieWithJam.github.io/rsschool-cv/cv
+https://cookiewithjam.github.io/rsschool-cv/index.html
